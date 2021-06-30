@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fortune-cookie/activity-service/activity-service.iml" filepath="$PROJECT_DIR$/fortune-cookie/activity-service/activity-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fortune-cookie/config-server/config-server.iml" filepath="$PROJECT_DIR$/fortune-cookie/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fortune-cookie/cookie-service/cookie-service.iml" filepath="$PROJECT_DIR$/fortune-cookie/cookie-service/cookie-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fortune-cookie/decision-service/decision-service.iml" filepath="$PROJECT_DIR$/fortune-cookie/decision-service/decision-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fortune-cookie/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/fortune-cookie/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fortune-cookie-june/fortune-cookie.iml" filepath="$PROJECT_DIR$/fortune-cookie-june/fortune-cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fortune-cookie/message/message.iml" filepath="$PROJECT_DIR$/fortune-cookie/message/message.iml" />
+    </modules>
+  </component>
+</project>
